@@ -13,8 +13,11 @@ install.packages(fda);#bspline basis
 install.packages(Matrix);
 
 install.packages(matrixcalc);
+
 install.packages(igraph);
+
 install.packages(Rcpp);
+
 install.packages(RcppArmadillo);
 
 ## Running the tests
