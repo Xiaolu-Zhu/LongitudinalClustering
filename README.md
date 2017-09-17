@@ -7,8 +7,11 @@ This is a sample code for longitudinal clustering project "Cluster Analysis of L
 ## Prerequisites
 The sample code is built under software R (https://www.r-project.org). Please have the following packages installed in your machine.
 install.packages("plyr");
+
 install.packages(fda);#bspline basis
+
 install.packages(Matrix);
+
 install.packages(matrixcalc);
 install.packages(igraph);
 install.packages(Rcpp);
